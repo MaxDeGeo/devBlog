@@ -9,7 +9,7 @@ linkedin: https://www.linkedin.com/in/max-degeorge/
 github: https://MaxDeGeo.com
 ---
 
-My name is Max De George, and I am a Software Developer working within Microsoft's Power Platform at eLogic. I graduated from the Rochester Institute of Technology (RIT) with a Bachelor's in Game Design & Development, but have been focused in the Web Development technologies throughout all of college and beyond.
+My name is Max De George and I am a Software Developer working within Microsoft's Power Platform at eLogic. I graduated from the Rochester Institute of Technology (RIT) with a Bachelor's in Game Design & Development, but have been focused in the Web Development technologies throughout all of college and beyond.
 
 I have always been interested in developing tools and working on projects to make my life easier, but no matter the task, I've always been plagued with the same thought: How do I even do that? 
 
