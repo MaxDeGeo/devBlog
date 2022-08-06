@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Dev Blog',
   author: 'Max De George',
-  headerTitle: 'DevBlog',
+  headerTitle: 'Dev Blog',
   description: 'A blog to watch me learn how the basics of computer science, software engineering, web development, and other software related fields actually work',
   language: 'en-us',
   theme: 'system', // system, dark or light

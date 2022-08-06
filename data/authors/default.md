@@ -15,4 +15,4 @@ I have always been interested in developing tools and working on projects to mak
 
 My goal for this blog is to dive head first into the different projects I plan to work on and hope that both you and I learn what this world calls Web Development as you watch me flounder, flail, and crawl my way to the finish line. It may not be pretty the first time around, but that's the point of learning: fail until you succeed.
 
-Feel free to comment in tips, tricks, or criticism (preferrably constructive) that will not only help me become a better developer, but also help others. No one is an island, and I sure could use the help.
+Feel free to comment on tips, tricks, or criticism (preferrably constructive) that will not only help me become a better developer, but also help others. No one is an island, and I sure could use the help.
